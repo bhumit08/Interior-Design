@@ -1,0 +1,17 @@
+// src/assets/frontend_assets/assets.js
+import interior from "./interior.jpg";
+import kitchen2 from "./kitchen2.jpg";
+import kitchen3 from "./kitchen3.jpg";
+import kitchen4 from "./kitchen4.jpg";
+import bg1 from "./bg1.webp";
+import bg2 from "./bg2.jpg";
+import bg3 from "./bg3.jpg";
+import bg4 from "./bg4.jpg";
+
+export const assets = {
+  interior,
+  kitchen2,
+  kitchen3,
+  kitchen4,
+  bg1,bg2,bg3,bg4
+};
