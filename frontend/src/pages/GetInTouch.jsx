@@ -1,9 +1,8 @@
-// src/pages/GetInTouch.jsx
 import React from "react";
 
 const GetInTouch = () => {
   return (
-    <section className="min-h-screen bg-gradient-to-br from-slate-900 to-indigo-900 px-6 py-16 text-white">
+    <section className="min-h-screen bg-gradient-to-br from-[#0a0f1c] via-[#0d1222] to-[#121926] px-6 py-16 text-white">
       <div className="max-w-3xl mx-auto text-center">
         <h1 className="text-4xl md:text-5xl font-bold mb-6">Get in Touch</h1>
         <p className="text-white/70 text-lg mb-10">

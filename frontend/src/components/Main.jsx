@@ -6,6 +6,7 @@ import Portfolio from './Portfolio'
 import Services from './Services'
 import About from './About'
 import Footer from './Footer'
+import Gallery from './Gallery'
 
 const Main = () => {
   return (
@@ -14,8 +15,9 @@ const Main = () => {
       <Hero/>
       <Services/>
       <Portfolio/>
-      <FeatureSection/>
+      {/* <FeatureSection/> */}
       <About/>
+      <Gallery/>
       <Footer/>
   
     </div>

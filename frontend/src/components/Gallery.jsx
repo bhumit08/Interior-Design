@@ -3,12 +3,12 @@ import React from "react";
 import { assets } from "../assets/frontend_assets/assets";
 
 const images = [
-  { src: assets.gallery1, caption: "Modern Living Room" },
-  { src: assets.gallery2, caption: "Elegant Bedroom" },
-  { src: assets.gallery3, caption: "Luxury Kitchen" },
-  { src: assets.gallery4, caption: "Minimalist Workspace" },
-  { src: assets.gallery5, caption: "Warm Dining Area" },
-  { src: assets.gallery6, caption: "Creative Wall Design" },
+  { src: assets.living_room, caption: "Modern Living Room" },
+  { src: assets.e_bedroom, caption: "Elegant Bedroom" },
+  { src: assets.l_kitchen, caption: "Luxury Kitchen" },
+  { src: assets.m_workspace, caption: "Minimalist Workspace" },
+  { src: assets.dining, caption: "Warm Dining Area" },
+  { src: assets.wall_design, caption: "Creative Wall Design" },
 ];
 
 const Gallery = () => {

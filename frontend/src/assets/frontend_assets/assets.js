@@ -13,8 +13,26 @@ import lroom1 from './lroom1.jpg'
 import appartment from './appartment.jpg'
 import lvilla from './lvilla.jpg'
 import chic from './chic.jpg'
+import dining from './dining.jpg'
+import l_kitchen from './l_kitchen.jpg'
+import e_bedroom from './e_bedroom.webp'
+import m_workspace from './m_workspace.webp'
+import wall_design from './wall_design.jpg'
+import living_room from './living_room.jpg'
+import ward from './ward.jpg'
+import home_auto from './home_auto.jpg'
+import bathroom from './bathroom.jpg'
 
 export const assets = {
+  ward,
+  home_auto,
+  bathroom,
+  m_workspace,
+  dining,
+  l_kitchen,
+  e_bedroom,
+  wall_design,
+  living_room,
   interior,
   kitchen2,
   kitchen3,

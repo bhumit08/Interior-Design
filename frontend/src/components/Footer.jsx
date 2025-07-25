@@ -11,7 +11,7 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <h2 className="text-3xl font-bold mb-4 text-white">
-              Interior<span className="text-yellow-400">Zen</span>
+              ProInterior
             </h2>
             <p className="text-gray-400 leading-relaxed mb-6">
               Creating beautiful, functional spaces that enhance your lifestyle and reflect your unique personality.
@@ -85,7 +85,7 @@ const Footer = () => {
               </div>
               <div>
                 <p className="font-medium text-white">Email</p>
-                <p>hello@interiorzen.com</p>
+                <p>hello@ProInterior.com</p>
               </div>
             </div>
           </div>
@@ -93,7 +93,7 @@ const Footer = () => {
 
         {/* Divider */}
         <div className="mt-16 border-t border-gray-700 pt-6 flex flex-col md:flex-row items-center justify-between text-sm text-gray-400">
-          <p>© 2024 InteriorZen. All rights reserved.</p>
+          <p>© 2024 ProInterior. All rights reserved.</p>
           <p className="flex items-center gap-1 mt-4 md:mt-0">
             Made with <Heart className="w-4 h-4 text-yellow-400" /> for beautiful spaces
           </p>
