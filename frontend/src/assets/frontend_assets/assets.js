@@ -7,11 +7,23 @@ import bg1 from "./bg1.webp";
 import bg2 from "./bg2.jpg";
 import bg3 from "./bg3.jpg";
 import bg4 from "./bg4.jpg";
+import bedroom from './bedroom.jpg'
+import kitchen5 from './kitchen5.jpg'
+import lroom1 from './lroom1.jpg'
+import appartment from './appartment.jpg'
+import lvilla from './lvilla.jpg'
+import chic from './chic.jpg'
 
 export const assets = {
   interior,
   kitchen2,
   kitchen3,
   kitchen4,
-  bg1,bg2,bg3,bg4
+  bg1,bg2,bg3,bg4,
+  bedroom,
+  kitchen5,
+  lroom1,
+  appartment,
+  lvilla,
+  chic
 };
